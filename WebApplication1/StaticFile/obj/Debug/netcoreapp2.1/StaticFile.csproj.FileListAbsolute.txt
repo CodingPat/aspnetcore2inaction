@@ -1,0 +1,13 @@
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\bin\Debug\netcoreapp2.1\StaticFile.deps.json
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\bin\Debug\netcoreapp2.1\StaticFile.runtimeconfig.json
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\bin\Debug\netcoreapp2.1\StaticFile.runtimeconfig.dev.json
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\bin\Debug\netcoreapp2.1\StaticFile.dll
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\bin\Debug\netcoreapp2.1\StaticFile.pdb
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\obj\Debug\netcoreapp2.1\StaticFile.RazorAssemblyInfo.cache
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\obj\Debug\netcoreapp2.1\StaticFile.RazorAssemblyInfo.cs
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\obj\Debug\netcoreapp2.1\StaticFile.AssemblyInfoInputs.cache
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\obj\Debug\netcoreapp2.1\StaticFile.AssemblyInfo.cs
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\obj\Debug\netcoreapp2.1\StaticFile.RazorTargetAssemblyInfo.cache
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\obj\Debug\netcoreapp2.1\StaticFile.dll
+D:\source\asp.core2.in.action\WebApplication1\StaticFile\obj\Debug\netcoreapp2.1\StaticFile.pdb

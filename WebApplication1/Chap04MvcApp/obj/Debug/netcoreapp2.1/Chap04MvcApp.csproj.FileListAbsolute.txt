@@ -1,0 +1,14 @@
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\bin\Debug\netcoreapp2.1\Chap04MvcApp.deps.json
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\bin\Debug\netcoreapp2.1\Chap04MvcApp.runtimeconfig.json
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\bin\Debug\netcoreapp2.1\Chap04MvcApp.runtimeconfig.dev.json
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\bin\Debug\netcoreapp2.1\Chap04MvcApp.dll
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\bin\Debug\netcoreapp2.1\Chap04MvcApp.pdb
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\obj\Debug\netcoreapp2.1\Chap04MvcApp.csprojAssemblyReference.cache
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\obj\Debug\netcoreapp2.1\Chap04MvcApp.RazorAssemblyInfo.cache
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\obj\Debug\netcoreapp2.1\Chap04MvcApp.RazorAssemblyInfo.cs
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\obj\Debug\netcoreapp2.1\Chap04MvcApp.AssemblyInfoInputs.cache
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\obj\Debug\netcoreapp2.1\Chap04MvcApp.AssemblyInfo.cs
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\obj\Debug\netcoreapp2.1\Chap04MvcApp.RazorTargetAssemblyInfo.cache
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\obj\Debug\netcoreapp2.1\Chap04MvcApp.dll
+D:\source\asp.core2.in.action\WebApplication1\Chap04MvcApp\obj\Debug\netcoreapp2.1\Chap04MvcApp.pdb

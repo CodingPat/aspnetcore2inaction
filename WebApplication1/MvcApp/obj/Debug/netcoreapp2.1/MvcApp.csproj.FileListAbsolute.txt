@@ -1,0 +1,14 @@
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\bin\Debug\netcoreapp2.1\MvcApp.deps.json
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\bin\Debug\netcoreapp2.1\MvcApp.runtimeconfig.json
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\bin\Debug\netcoreapp2.1\MvcApp.runtimeconfig.dev.json
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\bin\Debug\netcoreapp2.1\MvcApp.dll
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\bin\Debug\netcoreapp2.1\MvcApp.pdb
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\obj\Debug\netcoreapp2.1\MvcApp.csprojAssemblyReference.cache
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\obj\Debug\netcoreapp2.1\MvcApp.RazorAssemblyInfo.cache
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\obj\Debug\netcoreapp2.1\MvcApp.RazorAssemblyInfo.cs
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\obj\Debug\netcoreapp2.1\MvcApp.AssemblyInfoInputs.cache
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\obj\Debug\netcoreapp2.1\MvcApp.AssemblyInfo.cs
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\obj\Debug\netcoreapp2.1\MvcApp.RazorTargetAssemblyInfo.cache
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\obj\Debug\netcoreapp2.1\MvcApp.dll
+D:\source\asp.core2.in.action\WebApplication1\MvcApp\obj\Debug\netcoreapp2.1\MvcApp.pdb

@@ -1,0 +1,14 @@
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\bin\Debug\netcoreapp2.1\HoldingPage.deps.json
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\bin\Debug\netcoreapp2.1\HoldingPage.runtimeconfig.json
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\bin\Debug\netcoreapp2.1\HoldingPage.runtimeconfig.dev.json
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\bin\Debug\netcoreapp2.1\HoldingPage.dll
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\bin\Debug\netcoreapp2.1\HoldingPage.pdb
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\obj\Debug\netcoreapp2.1\HoldingPage.csprojAssemblyReference.cache
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\obj\Debug\netcoreapp2.1\HoldingPage.RazorAssemblyInfo.cache
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\obj\Debug\netcoreapp2.1\HoldingPage.RazorAssemblyInfo.cs
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\obj\Debug\netcoreapp2.1\HoldingPage.AssemblyInfoInputs.cache
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\obj\Debug\netcoreapp2.1\HoldingPage.AssemblyInfo.cs
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\obj\Debug\netcoreapp2.1\HoldingPage.RazorTargetAssemblyInfo.cache
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\obj\Debug\netcoreapp2.1\HoldingPage.dll
+D:\source\asp.core2.in.action\WebApplication1\HoldingPage\obj\Debug\netcoreapp2.1\HoldingPage.pdb
